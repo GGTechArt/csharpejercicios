@@ -1,17 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using Syetem.Linq;
+using System.Linq;
 using System.Text;
-using System.Threading.Task;
+using System.Threading.Tasks;
 
-namespace PolimorfismoCurso
+namespace Polimorfismo
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            var autos = new List<Auto>
+            {
+                new Audi(200,"azul","A4"),
+                new BMW(200,"azul","A4"),
 
-		}
-	}
+            };
+        }
+    }
 }
-

@@ -19,11 +19,11 @@ namespace Polimorfismo
         }
 
         //Metodos
-        public void MostrarDetalles()
+        public new void MostrarDetalles()
         {
             Console.WriteLine("Marca {0} -  Modelo: {1} HP: {2] - Color {3}", marca, Modelo, HP, Color);
         }
-        public void Reparar()
+        public override void Reparar()
         {
             Console.WriteLine("El Audi {0} esta reparado", Modelo);
         }

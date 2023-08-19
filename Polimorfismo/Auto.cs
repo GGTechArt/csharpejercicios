@@ -21,10 +21,10 @@ namespace Polimorfismo
         //Metodos
         public void MostrarDetalles()
         {
-            Console.WriteLine("HP: {0] - Color {1}", HP, Color);
+            Console.WriteLine("HP: {0} - Color {1}", HP, Color);
         }
 
-        public void Reparar()
+        public virtual void  Reparar()
         {
             Console.WriteLine("El auto ya esta reparado");
         }

@@ -27,11 +27,19 @@ namespace Polimorfismo
             auto1.MostrarDetalles();
             auto2.MostrarDetalles();
 
+            auto1.SetearAutoInfo(123,"German Galindo");
+            auto2.SetearAutoInfo(124, "Ela Galindo");
+            auto1.LeerAutoInfo();
+            auto2.LeerAutoInfo();
+
             BMW bmwM5 = new BMW(330, "blanco", "M5");
             bmwM5.MostrarDetalles();
 
             Auto autoB =(Auto)bmwM5;
             autoB.MostrarDetalles();
+
+            M3 miM3 = new M3(260, "rojo", "M3 Super Turbo");
+            miM3.Reparar();
 
             Console.ReadLine();
         }

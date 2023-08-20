@@ -20,6 +20,11 @@ namespace ClaseMath
             Console.WriteLine("3 elevado a a la 5 es " + Math.Pow(3, 5));
             Console.WriteLine("PI es {0}", Math.PI);
 
+            Console.WriteLine("La raiz cuadrada de 25 es {0}",Math.Sqrt(25));
+            Console.WriteLine("El absoluto de -25 es {0}", Math.Abs(25));
+
+            Console.WriteLine("El coseno es 1 {0}", Math.Cos(1));
+
             Console.Read();
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\GG\Documents\GitHub\csharpejercicios\ClaseMath\bin\Debug\ClaseMath.exe.config
+C:\Users\GG\Documents\GitHub\csharpejercicios\ClaseMath\bin\Debug\ClaseMath.exe
+C:\Users\GG\Documents\GitHub\csharpejercicios\ClaseMath\bin\Debug\ClaseMath.pdb
+C:\Users\GG\Documents\GitHub\csharpejercicios\ClaseMath\obj\Debug\ClaseMath.csproj.AssemblyReference.cache
+C:\Users\GG\Documents\GitHub\csharpejercicios\ClaseMath\obj\Debug\ClaseMath.csproj.CoreCompileInputs.cache
+C:\Users\GG\Documents\GitHub\csharpejercicios\ClaseMath\obj\Debug\ClaseMath.exe
+C:\Users\GG\Documents\GitHub\csharpejercicios\ClaseMath\obj\Debug\ClaseMath.pdb

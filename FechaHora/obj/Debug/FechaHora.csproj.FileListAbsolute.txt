@@ -1,0 +1,7 @@
+C:\Users\GG\Documents\GitHub\csharpejercicios\FechaHora\bin\Debug\FechaHora.exe.config
+C:\Users\GG\Documents\GitHub\csharpejercicios\FechaHora\bin\Debug\FechaHora.exe
+C:\Users\GG\Documents\GitHub\csharpejercicios\FechaHora\bin\Debug\FechaHora.pdb
+C:\Users\GG\Documents\GitHub\csharpejercicios\FechaHora\obj\Debug\FechaHora.csproj.AssemblyReference.cache
+C:\Users\GG\Documents\GitHub\csharpejercicios\FechaHora\obj\Debug\FechaHora.csproj.CoreCompileInputs.cache
+C:\Users\GG\Documents\GitHub\csharpejercicios\FechaHora\obj\Debug\FechaHora.exe
+C:\Users\GG\Documents\GitHub\csharpejercicios\FechaHora\obj\Debug\FechaHora.pdb
